@@ -1,6 +1,6 @@
 # CloudFormation-Website-Deployment
 
-This is a simple CloudFormation `.yaml` template files that provisions a VPC network on AWS, as well as a set of autoscaled servers needed to deploy a high avalability web applicaation.
+This is a [CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html "What is CloudFormation") `.yaml` project template files that provisions a [VPC](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html "what is VPC") network on [AWS](aws.amazon.com "Amazon Web Services"), as well as a set of [autoscaled](https://aws.amazon.com/autoscaling/ "autoscaling") servers needed to deploy a high avalability web applicaation.
 
 ![aws cloud infrastructure](https://github.com/pman06/CloudFormation-Website-Deployment/blob/master/Cloud-Deployment-Diagram.jpeg?raw=true "aws infrastructure image")
 
